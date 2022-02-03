@@ -12,7 +12,7 @@ import ListItemText from "@mui/material/ListItemText";
 import { stringAvatar } from "app/index.js";
 import { Item } from "app/index.js";
 
-const baseURL = "https://jsonplaceholder.typicode.com/comments";
+const baseURL = "https://jsonplaceholder.typicode.com/comments?_limit=10";
 
 export default function ApiComponent() {
   const [posts, setPost] = useState(null);
