@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.1e53c14a.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.e772aab7.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.e772aab7.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.2b8f4547.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.2b8f4547.js.map",
-    "static/js/2.eb415dc5.chunk.js": "/react-gh-pages/static/js/2.eb415dc5.chunk.js",
-    "static/js/2.eb415dc5.chunk.js.map": "/react-gh-pages/static/js/2.eb415dc5.chunk.js.map",
-    "static/js/3.c142c1a5.chunk.js": "/react-gh-pages/static/js/3.c142c1a5.chunk.js",
-    "static/js/3.c142c1a5.chunk.js.map": "/react-gh-pages/static/js/3.c142c1a5.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.1e53c14a.chunk.css.map": "/react-gh-pages/static/css/main.1e53c14a.chunk.css.map",
-    "static/js/2.eb415dc5.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.eb415dc5.chunk.js.LICENSE.txt"
+    "main.css": "/avb-front-end-assessment/static/css/main.1e53c14a.chunk.css",
+    "main.js": "/avb-front-end-assessment/static/js/main.e772aab7.chunk.js",
+    "main.js.map": "/avb-front-end-assessment/static/js/main.e772aab7.chunk.js.map",
+    "runtime-main.js": "/avb-front-end-assessment/static/js/runtime-main.ef6d4ffa.js",
+    "runtime-main.js.map": "/avb-front-end-assessment/static/js/runtime-main.ef6d4ffa.js.map",
+    "static/js/2.eb415dc5.chunk.js": "/avb-front-end-assessment/static/js/2.eb415dc5.chunk.js",
+    "static/js/2.eb415dc5.chunk.js.map": "/avb-front-end-assessment/static/js/2.eb415dc5.chunk.js.map",
+    "static/js/3.c142c1a5.chunk.js": "/avb-front-end-assessment/static/js/3.c142c1a5.chunk.js",
+    "static/js/3.c142c1a5.chunk.js.map": "/avb-front-end-assessment/static/js/3.c142c1a5.chunk.js.map",
+    "index.html": "/avb-front-end-assessment/index.html",
+    "static/css/main.1e53c14a.chunk.css.map": "/avb-front-end-assessment/static/css/main.1e53c14a.chunk.css.map",
+    "static/js/2.eb415dc5.chunk.js.LICENSE.txt": "/avb-front-end-assessment/static/js/2.eb415dc5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b8f4547.js",
+    "static/js/runtime-main.ef6d4ffa.js",
     "static/js/2.eb415dc5.chunk.js",
     "static/css/main.1e53c14a.chunk.css",
     "static/js/main.e772aab7.chunk.js"
